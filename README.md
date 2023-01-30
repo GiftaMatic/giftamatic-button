@@ -19,4 +19,4 @@ Then 1234 is your campaignId and 10lkjjssj20hfsj20Sf is your public key to recie
 
 ```
 
-With Love from GiftaMatic team.
+With love from GiftaMatic team.
