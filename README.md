@@ -15,7 +15,7 @@ The GiftaMatic Button is easy to use, you just need to create your campaign on t
 You can find the campaignId from the last digits of the sharable url of campaign.
 
 example: https://giftamatic.org/10lkjjssj20hfsj20Sf/123 
-Then 123 is your campaignId and 10lkjjssj20hfsj20Sf is your public key to recieve funds.
+Then 1234 is your campaignId and 10lkjjssj20hfsj20Sf is your public key to recieve funds.
 
 ```
 
